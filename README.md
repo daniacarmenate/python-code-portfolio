@@ -1,4 +1,4 @@
-# 📊 Data & Python Portfolio - Dania Carmenate
+# Portfolio - Dania Carmenate
 
 Welcome! This repository contains my projects in:
 
